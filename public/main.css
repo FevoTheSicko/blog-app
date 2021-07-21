@@ -1,0 +1,58 @@
+
+:root{
+    --light-blue: rgb(145, 193, 255);
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    position:relative;
+    margin: 0 auto;
+    width: 60%;
+    
+}
+li{
+    padding: 10px 60px;
+    border-style: solid;
+    
+}
+header{
+color: var(--light-blue);
+width: 100%;
+background-color: rgb(36, 35, 35);
+height: 100px;
+text-align: center;
+font-size: 60px;
+
+margin: 0 auto;
+}
+body{
+    
+    background-color: rgb(51, 49, 49);
+    margin: 0 auto;
+    align-content: center;
+    justify-content: center;
+}
+
+.card{
+    border-style: solid;
+    width: 600px;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: var(--light-blue);
+    
+}
+.card-title{
+    border-style: solid;
+}
+.blog-submit{
+    border-style: solid;
+    width: 600px;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: var(--light-blue);
+}
+.submitting{
+    display: block;
+    width: 100%;
+}
