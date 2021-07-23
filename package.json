@@ -14,7 +14,10 @@
     "express-session": "^1.17.2",
     "express-validator": "^6.11.1",
     "mysql2": "^2.2.5",
+    "node-gyp": "^8.1.0",
+    "node-pre-gyp": "^0.17.0",
     "nodemon": "^2.0.7",
+    "npm": "^7.20.1",
     "sequelize": "^6.6.2"
   },
   "scripts": {
